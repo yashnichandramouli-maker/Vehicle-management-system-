@@ -1,0 +1,1 @@
+import{Link}from"react-router-dom";export default function Home(){return <main className="hero page"><section className="hero-card"><span className="eyebrow">SMART VEHICLE RENTAL</span><h1>Intelligent Vehicle Rental</h1><p>Search, compare and book suitable vehicles for your journey.</p><Link className="button primary" to="/search">Find a Vehicle</Link></section></main>}
